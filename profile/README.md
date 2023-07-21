@@ -23,3 +23,9 @@ Mastodon is a free, open-source social network server based on ActivityPub where
 ## Community participation
 
 Participation is via the [Mastodon Code of Conduct](https://github.com/mastodon/.github/blob/main/code-of-conduct.md)
+
+## Follow us
+
+Find us on Mastodon 🙂
+
+[![Mastodon](https://img.shields.io/badge/Mastodon%20-%231DA1F2.svg?&style=flat-square&logo=mastodon&logoColor=white&color=6364FF)](https://mastodon.social/@mastodon) [![MastodonEngineering](https://img.shields.io/badge/MastodonEngineering%20-%231DA1F2.svg?&style=flat-square&logo=mastodon&logoColor=white&color=6364FF)](https://mastodon.social/@MastodonEngineering)
