@@ -1,6 +1,6 @@
 <h1><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mastodon/mastodon/raw/main/lib/assets/wordmark.dark.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mastodon/mastodon/raw/main/lib/assets/wordmark.light.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mastodon/mastodon/main/lib/assets/wordmark.light.png">
   <img alt="Mastodon" src="https://github.com/mastodon/mastodon/raw/mainlib/assets/wordmark.light.png?raw=true" height="34">
 </picture></h1>
 
@@ -22,7 +22,7 @@ Mastodon is a free, open-source social network server based on ActivityPub where
 
 ## Community participation
 
-Participation is via the [Mastodon Code of Conduct](https://github.com/mastodon/.github/blob/main/code-of-conduct.md)
+Participation is via the [Mastodon Code of Conduct](https://github.com/mastodon/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Follow us
 
