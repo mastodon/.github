@@ -63,6 +63,28 @@ Here are some other ideas:
 - **Testing** New features should also ideally come with additional tests to ensure they work as expected, and don't break existing code.
 - **Documentation** If a code change modifies the existing external API, or adds or removes user-facing settings or other elements, you must also share appropriate documentation by opening a matching pull request against the main documentation repository (per project-specific considerations above).
 
+#### Pull requests
+
+**Use clean, concise titles for pull requests** When creating a pull request, consider that the person reading the title may not be a programmer or Mastodon developer, but instead a Mastodon user or server administrator. Try to describe your change or fix from their perspective.
+
+We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.0.0/). To ensure easier sorting, start your pull request titles with one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
+
+Example:
+
+| Not ideal                            | Better                                                        |
+| ------------------------------------ | ------------------------------------------------------------- |
+| Fixed NoMethodError in RemovalWorker | Fix nil error when removing statuses caused by race condition |
+
+While it may not always be possible to phrase every change in this manner, please do so if you can.
+
+**Keep the set of changes as small as possible for quicker review** It is often preferable to split tasks into multiple smaller pull requests to make things easier to review and merge.
+
+**Pull requests that do not pass automated checks may not be reviewed** Make sure to consider the following:
+
+- Unit and integration tests (rspec, jest)
+- Code style rules (rubocop, eslint)
+- Normalization of locale files (i18n-tasks)
+
 ## License
 
 Mastodon is licensed under the GNU Affero General Public License v3.0. Please see the [LICENSE](https://github.com/mastodon/mastodon/blob/main/LICENSE) file for more information. Individual repositories outside of the main Mastodon repository may have different licenses.
