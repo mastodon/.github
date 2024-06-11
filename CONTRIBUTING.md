@@ -65,9 +65,7 @@ Here are some other ideas:
 
 #### Pull requests
 
-**Use clean, concise titles for pull requests** When creating a pull request, consider that the person reading the title may not be a programmer or Mastodon developer, but instead a Mastodon user or server administrator. Try to describe your change or fix from their perspective.
-
-We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.0.0/). To ensure easier sorting, start your pull request titles with one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
+**Use clear, concise titles for pull requests** When creating a pull request, consider that the person reading the title may not be a programmer or Mastodon developer, but instead a Mastodon user or server administrator. Try to describe your change or fix from their perspective. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.1.0/). To ensure easier sorting, start your pull request titles with one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
 
 Example:
 
