@@ -41,6 +41,12 @@ There are a number of things to understand when thinking about contributing to M
 
 There is a team working on Mastodon, not a single individual. This core team discusses implementation choices, and maintains the final say on which changes make it into the platform and our own apps. We aim to make decisions transparently, considering community feedback and the overall project needs. We are always open to considering future improvements to our workflow and decision-making process.
 
+Mastodon is an Open Source project, but it is not always possible to accept every contribution. We appreciate your understanding and patience if your contributions are not accepted.
+
+### Open Collective
+
+If your contributions are accepted into Mastodon, you may (if you choose) request to be paid through [our Open Collective](https://opencollective.com/mastodon).
+
 ## Contributing
 
 There are many ways to get involved.
@@ -56,6 +62,10 @@ Here are some other ideas:
 - **Code** Fix bugs, implement new features (see the sections below), and improve code quality. Take a look at our [good first issues list](https://github.com/mastodon/mastodon/labels/help%20welcome) which contains [items marked `help-welcome`](https://github.com/mastodon/mastodon/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+welcome%22+) in the issue tracker.
 - **Donate** The best and easiest way to support us is to [donate](https://joinmastodon.org/sponsors) - this helps us to hire developers to work on new features, and support the existing codebase. Mastodon is a not-for-profit project, and we rely on donations to keep going.
 
+### Issues
+
+Bug reports and feature suggestions must use descriptive and concise titles and be submitted via GitHub Issues. Please use the search function to make sure that you are not submitting duplicates, and that a similar report or request has not already been resolved or rejected.
+
 ### Submitting Code Changes
 
 - **Features** Please do not work on major features and ideas without first creating an issue for discussion. We are a small team, and are unlikely to be able to pick these up as quickly as you might prefer.
@@ -65,7 +75,7 @@ Here are some other ideas:
 
 #### Pull requests
 
-**Use clear, concise titles for pull requests** When creating a pull request, consider that the person reading the title may not be a programmer or Mastodon developer, but instead a Mastodon user or server administrator. Try to describe your change or fix from their perspective. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.1.0/). To ensure easier sorting, start your pull request titles with one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
+**Use clear, concise titles for pull requests** When creating a pull request, consider that the person reading the title may not be a programmer or Mastodon developer, but instead a Mastodon user or server administrator. Try to describe your change or fix from their perspective. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.1.0/). To ensure easier sorting, start your pull request title with one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
 
 Example:
 
