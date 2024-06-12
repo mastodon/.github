@@ -10,7 +10,9 @@ Thank you for choosing to contribute to Mastodon! We are a social platform built
   - [Project-Specific Considerations](#project-specific-considerations)
   - [Decision-Making Process](#decision-making-process)
 - [Contributing](#contributing)
+  - [Issues](#issues)
   - [Submitting Code Changes](#submitting-code-changes)
+  - [Pull requests](#pull-requests)
 - [License](#license)
 - [Gratitude](#gratitude)
 
