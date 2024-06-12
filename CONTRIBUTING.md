@@ -26,7 +26,7 @@ First of all, it is important to state: *We Appreciate Your Support* in every wa
 
 There are a number of things to understand when thinking about contributing to Mastodon.
 
-- **Small Core Team** The core development team for Mastodon is small. There is a large audience of users, instance operators, and others who are affected by changes and updates. The core team’s top priorities are maintaining code quality and addressing critical issues, as well as adding features and guiding the project's overall direction.
+- **Small Core Team** The core development team for Mastodon is small. There is a large audience of users, instance operators, and others who are affected by changes and updates. The core team's top priorities are maintaining code quality and addressing critical issues, as well as adding features and guiding the project's overall direction.
 - **Prioritized Contributions** To help us to manage our limited resources, we encourage starting with contributions in the areas of documentation, issue triage, and testing (see below).
 - **Project Tooling** We use GitHub for development, but some of our team discussions happen in other tools, and not all of those are publicly available.
 - **Communications channels** [GitHub Discussions](https://github.com/mastodon/mastodon/discussions) are available for general discussion and questions. Announcements are made via our [blog](https://blog.joinmastodon.org/), and also via [@Mastodon](https://mastodon.social/@Mastodon) and [@MastodonEngineering](https://mastodon.social/@MastodonEngineering) on Mastodon. Project sponsors can find also find us on Discord.
