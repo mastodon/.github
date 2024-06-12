@@ -27,7 +27,7 @@ First of all, it is important to state: *We Appreciate Your Support* in every wa
 There are a number of things to understand when thinking about contributing to Mastodon.
 
 - **Small Core Team** The core development team for Mastodon is small. There is a large audience of users, instance operators, and others who are affected by changes and updates. The core team's top priorities are maintaining code quality and addressing critical issues, as well as adding features and guiding the project's overall direction.
-- **Prioritized Contributions** To help us to manage our limited resources, we encourage starting with contributions in the areas of documentation, issue triage, and testing (see below).
+- **Prioritized Contributions** To help us to manage our limited resources, we encourage starting with contributions in the areas of documentation, issue triage, and testing (see below). You can also check the relevant repository labels for issues that are marked as `help-welcome`.
 - **Project Tooling** We use GitHub for development, but some of our team discussions happen in other tools, and not all of those are publicly available.
 - **Communications channels** [GitHub Discussions](https://github.com/mastodon/mastodon/discussions) are available for general discussion and questions. Announcements are made via our [blog](https://blog.joinmastodon.org/), and also via [@Mastodon](https://mastodon.social/@Mastodon) and [@MastodonEngineering](https://mastodon.social/@MastodonEngineering) on Mastodon. Project sponsors can find also find us on Discord.
 
@@ -42,10 +42,6 @@ There are a number of things to understand when thinking about contributing to M
 There is a team working on Mastodon, not a single individual. This core team discusses implementation choices, and maintains the final say on which changes make it into the platform and our own apps. We aim to make decisions transparently, considering community feedback and the overall project needs. We are always open to considering future improvements to our workflow and decision-making process.
 
 Mastodon is an Open Source project, but it is not always possible to accept every contribution. We appreciate your understanding and patience if your contributions are not accepted.
-
-### Open Collective
-
-If your contributions are accepted into Mastodon, you may (if you choose) request to be paid through [our Open Collective](https://opencollective.com/mastodon).
 
 ## Contributing
 
@@ -73,7 +69,7 @@ Bug reports and feature suggestions must use descriptive and concise titles and 
 - **Testing** New features should also ideally come with additional tests to ensure they work as expected, and don't break existing code.
 - **Documentation** If a code change modifies the existing external API, or adds or removes user-facing settings or other elements, you must also share appropriate documentation by opening a matching pull request against the main documentation repository (per project-specific considerations above).
 
-#### Pull requests
+### Pull requests
 
 **Use clear, concise titles for pull requests** When creating a pull request, consider that the person reading the title may not be a programmer or Mastodon developer, but instead a Mastodon user or server administrator. Try to describe your change or fix from their perspective. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.1.0/). To ensure easier sorting, start your pull request title with one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
 
