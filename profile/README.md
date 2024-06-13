@@ -15,10 +15,11 @@ Mastodon is a free, open-source social network server based on ActivityPub where
 
 ## Reporting issues / contributing code
 
-- [Mastodon main repository](https://github.com/mastodon/mastodon/issues)
-- Official [Android](https://github.com/mastodon/mastodon-android/issues) and [iOS](https://github.com/mastodon/mastodon-ios/issues) apps
-- [Documentation](https://github.com/mastodon/documentation/issues)
-- [Project website](https://github.com/mastodon/joinmastodon/issues)
+- Please read the [Contributing to Mastodon](https://github.com/mastodon/.github/blob/main/CONTRIBUTING.md) guide
+  - [Mastodon main repository](https://github.com/mastodon/mastodon/issues)
+  - Official [Android](https://github.com/mastodon/mastodon-android/issues) and [iOS](https://github.com/mastodon/mastodon-ios/issues) apps
+  - [Documentation](https://github.com/mastodon/documentation/issues)
+  - [Project website](https://github.com/mastodon/joinmastodon/issues)
 
 ## Community participation
 
