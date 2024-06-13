@@ -57,8 +57,8 @@ Here are some other ideas:
 - **Translations** Submit translations for the apps or main website [via CrowdIn](https://crowdin.com/projects?q=mastodon#advanced-search). We do not currently have plans for documentation translations as they can be complicated to maintain, but let us know if you have ideas on how we could improve here.
 - **Issue Triage** Assist with categorizing new issues, reproduce reported bugs, test fixes, and find duplicates. A high-quality, validated issue list helps the core team stay on top of things.
 - **Testing** Expand our test suite by writing new test cases and improving existing ones.
-- **Code** Fix bugs, implement new features (see the sections below), and improve code quality. Take a look at our [good first issues list](https://github.com/mastodon/mastodon/labels/help%20welcome) which contains [items marked `help-welcome`](https://github.com/mastodon/mastodon/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+welcome%22+) in the issue tracker.
-- **Donate** The best and easiest way to support us is to [donate](https://joinmastodon.org/sponsors) - this helps us to hire developers to work on new features, and support the existing codebase. Mastodon is a not-for-profit project, and we rely on donations to keep going.
+- **Code** Fix bugs, implement new features (see the sections below), and improve code quality. Take a look at our [good first issues list](https://github.com/mastodon/mastodon/labels/help%20welcome) which contains items marked `help-welcome` in the issue tracker.
+- **Donate** The best and easiest way to support us is to [donate](https://joinmastodon.org/sponsors#donate) - this helps us to hire developers to work on new features, and support the existing codebase. Mastodon is a not-for-profit project, and we rely on donations to keep going.
 
 ### Issues
 
