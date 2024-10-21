@@ -16,6 +16,9 @@ Mastodon is a free, open source social network server based on ActivityPub, wher
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- :newspaper: [Trunk & Tidbits, September 2024](https://blog.joinmastodon.org/2024/10/trunk-tidbits-september-2024/) - *2024-10-10*
+- :newspaper: [Mastodon 4.3](https://blog.joinmastodon.org/2024/10/mastodon-4.3/) - *2024-10-08*
+- :newspaper: [Trunk & Tidbits, August 2024](https://blog.joinmastodon.org/2024/09/trunk-tidbits-august-2024/) - *2024-09-09*
 <!-- BLOG-POST-LIST:END -->
 
 ## Reporting issues / contributing code
