@@ -16,8 +16,8 @@ Mastodon is a free, open source social network based on ActivityPub, where users
 
 <!-- BLOG-POST-LIST:START -->
 - :newspaper: [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/) - *2025-01-13*
+- :newspaper: [Trunk & Tidbits, December 2024](https://blog.joinmastodon.org/2025/01/trunk-tidbits-december-2024/) - *2025-01-10*
 - :newspaper: [Annual Report 2023](https://blog.joinmastodon.org/2024/12/annual-report-2023/) - *2024-12-23*
-- :newspaper: [Trunk & Tidbits, November 2024](https://blog.joinmastodon.org/2024/12/trunk-tidbits-november-2024/) - *2024-12-11*
 <!-- BLOG-POST-LIST:END -->
 
 ## Reporting issues / contributing code
