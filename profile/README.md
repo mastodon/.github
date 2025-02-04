@@ -4,7 +4,7 @@
   <img alt="Mastodon" src="https://github.com/mastodon/mastodon/raw/mainlib/assets/wordmark.light.png?raw=true" height="34">
 </picture></h1>
 
-Mastodon is a free, open source social network based on ActivityPub, where users can follow friends and discover new ones. All Mastodon servers are interoperable as a federated network.
+Mastodon is where conversations happen - a free, open source social network, where users can follow friends and discover new ones. All Mastodon servers are interoperable as a federated network, via the ActivityPub protocol.
 
 - [Project homepage](https://joinmastodon.org)
 - [Support the team via GitHub, Patreon, or direct donation](https://joinmastodon.org/sponsors#donate)
