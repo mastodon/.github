@@ -16,8 +16,8 @@ Mastodon is where conversations happen - a free, open source social network, whe
 
 <!-- BLOG-POST-LIST:START -->
 - :newspaper: [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/) - *2025-01-13*
+- :newspaper: [Trunk & Tidbits, January 2025](https://blog.joinmastodon.org/2025/02/trunk-tidbits-january-2025/) - *2025-02-10*
 - :newspaper: [Trunk & Tidbits, December 2024](https://blog.joinmastodon.org/2025/01/trunk-tidbits-december-2024/) - *2025-01-10*
-- :newspaper: [Annual Report 2023](https://blog.joinmastodon.org/2024/12/annual-report-2023/) - *2024-12-23*
 <!-- BLOG-POST-LIST:END -->
 
 ## Reporting issues / contributing code
