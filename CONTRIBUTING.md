@@ -64,6 +64,10 @@ Here are some other ideas:
 
 Bug reports and feature suggestions must use descriptive and concise titles and be submitted via GitHub Issues. Please use the search function to make sure that you are not submitting duplicates, and that a similar report or request has not already been resolved or rejected.
 
+### Security Issues
+
+If you are reporting a security issue, refer to the [SECURITY](https://github.com/mastodon/mastodon/blob/main/SECURITY.md) policy in the main Mastodon repository for instructions on how to proceed.
+
 ### Submitting Code Changes
 
 - **Features** Please do not work on major features and ideas without first creating an issue for discussion. We are a small team, and are unlikely to be able to pick these up as quickly as you might prefer.
