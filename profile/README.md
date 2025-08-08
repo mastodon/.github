@@ -12,15 +12,13 @@
 
 [![Getting Started](https://img.shields.io/static/v1?label=Getting%20Started&message=Issues&color=%236364FF&style=flat-square)](https://github.com/mastodon/mastodon/issues/30167) [![How to Help](https://img.shields.io/static/v1?label=How%20to%20Help&message=Contributing&color=%236364FF&style=flat-square)](https://github.com/mastodon/.github/blob/main/CONTRIBUTING.md)
 
-Mastodon is where conversations happen - a free, open source social network, where users can follow friends and discover new ones. All Mastodon servers are interoperable as a federated network, via the ActivityPub protocol.
+Mastodon is where conversations happen - a free, open source social network, where people can follow friends and discover new ones. All Mastodon servers are interoperable as a federated network, via the ActivityPub protocol. Mastodon is part of the [Fediverse](https://jointhefediverse.net/): people with a Mastodon account can interact with content on a variety of other apps and platforms.
 
 - [Project homepage](https://joinmastodon.org)
 - [Support the team via GitHub, Patreon, or direct donation](https://joinmastodon.org/sponsors#donate)
   - [View sponsors](https://joinmastodon.org/sponsors)
-- [Documentation](https://docs.joinmastodon.org)
-- [Project blog](https://blog.joinmastodon.org)
 
-## Recent blog posts
+## Recent news from the [project blog](https://blog.joinmastodon.org)
 
 <!-- BLOG-POST-LIST:START -->
 - :newspaper: [Trunk & Tidbits, July 2025](https://blog.joinmastodon.org/2025/08/trunk-tidbits-july-2025/) - *2025-08-07*
@@ -28,15 +26,16 @@ Mastodon is where conversations happen - a free, open source social network, whe
 - :newspaper: [Trunk & Tidbits, June 2025](https://blog.joinmastodon.org/2025/07/trunk-tidbits-june-2025/) - *2025-07-15*
 <!-- BLOG-POST-LIST:END -->
 
-## Reporting issues / contributing code
+## Contributing code (or reporting issues)
 
 - Please read the [Contributing to Mastodon](https://github.com/mastodon/.github/blob/main/CONTRIBUTING.md) guide.
-- _Core repositories_
-  - Mastodon [web app and backend](https://github.com/mastodon/mastodon) main repository
-  - Official [Android](https://github.com/mastodon/mastodon-android) and [iOS](https://github.com/mastodon/mastodon-ios) apps
-  - [Documentation](https://github.com/mastodon/documentation)
-  - Project [website](https://github.com/mastodon/joinmastodon)
 - Project discussions are [on GitHub](https://github.com/mastodon/mastodon/discussions), and via the [sponsors](https://www.patreon.com/mastodon/membership) Discord.
+
+**Core repositories**
+ - Mastodon [web app and backend](https://github.com/mastodon/mastodon) main repository
+ - Official [Android](https://github.com/mastodon/mastodon-android) and [iOS](https://github.com/mastodon/mastodon-ios) apps
+ - [Documentation](https://github.com/mastodon/documentation)
+ - Project [website](https://github.com/mastodon/joinmastodon)
 
 ## Community participation
 
