@@ -50,7 +50,7 @@ Mastodon is an Open Source project, but it is not always possible to accept ever
 
 There are many ways to get involved.
 
-For the [main code repository](https://github.com/mastodon/documentation), [this Issue](https://github.com/mastodon/mastodon/issues/30167) is a good starting point.
+For the [main code repository](https://github.com/mastodon/mastodon), [this Issue](https://github.com/mastodon/mastodon/issues/30167) is a good starting point.
 
 Here are some other ideas:
 
