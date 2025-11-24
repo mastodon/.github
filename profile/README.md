@@ -15,7 +15,7 @@
 Mastodon is where conversations happen - a free, open source social network, where people can follow friends and discover new ones. All Mastodon servers are interoperable as a federated network, via the ActivityPub protocol. Mastodon is part of the [Fediverse](https://jointhefediverse.net/): people with a Mastodon account can interact with content on a variety of other apps and platforms.
 
 - [Project homepage](https://joinmastodon.org)
-- [Support the team via GitHub, Patreon, or direct donation](https://joinmastodon.org/sponsors#donate)
+- [Support the project via our donation page](https://joinmastodon.org/sponsors#donate)
   - [View sponsors](https://joinmastodon.org/sponsors)
 
 ## Recent news from the [project blog](https://blog.joinmastodon.org)
