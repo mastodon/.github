@@ -21,9 +21,9 @@ Mastodon is where conversations happen - a free, open source social network, whe
 ## Recent news from the [project blog](https://blog.joinmastodon.org)
 
 <!-- BLOG-POST-LIST:START -->
+- :newspaper: [Mastodon is for the people](https://blog.joinmastodon.org/2026/02/mastodon-is-for-the-people/) - *2026-02-19*
 - :newspaper: [Our technical direction](https://blog.joinmastodon.org/2026/02/our-technical-direction/) - *2026-02-18*
 - :newspaper: [Connecting the world through thriving online communities](https://blog.joinmastodon.org/2026/02/connecting-the-world-through-thriving-online-communities/) - *2026-02-17*
-- :newspaper: [Administrative updates](https://blog.joinmastodon.org/2026/02/administrative-updates/) - *2026-02-13*
 <!-- BLOG-POST-LIST:END -->
 
 ## Contributing code (or reporting issues)
