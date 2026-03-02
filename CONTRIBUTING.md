@@ -5,7 +5,7 @@ Thank you for choosing to contribute to Mastodon! We are a social platform built
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
-- [AI Policy](#ai-policy)
+- [AI Contribution Policy](#ai-contribution-policy)
 - [Background](#background)
   - [Understanding How We Work](#understanding-how-we-work)
   - [Project-Specific Considerations](#project-specific-considerations)
@@ -20,11 +20,11 @@ Thank you for choosing to contribute to Mastodon! We are a social platform built
 
 ## Code of Conduct
 
-Our [Code of Conduct](https://github.com/mastodon/.github/blob/main/CODE_OF_CONDUCT.md) outlines the expectations for behavior within our community and in our GitHub repositories. Please make sure to read and understand it before contributing.
+Our [Code of Conduct](https://github.com/mastodon/.github/blob/main/CODE_OF_CONDUCT.md) outlines the expectations for behaviour within our community and in our GitHub repositories. Please make sure to read and understand it before contributing.
 
-## AI Policy
+## AI Contribution Policy
 
-Ensure that you have read and understood our [AI Policy](https://github.com/mastodon/.github/blob/main/AI_POLICY.md). We generally do not encourage AI-assisted contributions. Specifically: AI Agents may not directly open Pull Requests (PRs) on the Mastodon repositories - with the exception of automated dependency updates and workflows that are enabled by maintainers.
+Ensure that you have read and understood our [AI Contribution Policy](https://github.com/mastodon/.github/blob/main/AI_POLICY.md). We generally do not encourage AI-assisted contributions. Specifically: AI Agents may not directly open Pull Requests (PRs) on the Mastodon repositories - with the exception of automated dependency updates and workflows that are enabled by maintainers.
 
 ## Background
 
@@ -35,7 +35,7 @@ First of all, it is important to state: *We Appreciate Your Support* in every wa
 Here are a number of things to understand about contributing to Mastodon.
 
 - **Small Core Team** The core development team for Mastodon is small. There is a large audience of users, instance operators, and others who are affected by changes and updates. The core team's top priorities are maintaining code quality and addressing critical issues, as well as adding features and guiding the project's overall direction.
-- **Prioritized Contributions** To help us to manage our limited resources, we encourage starting with contributions in the areas of documentation, issue triage, and testing (see below). You can also check the relevant repository labels for issues that are marked as `help-welcome`.
+- **Prioritised Contributions** To help us to manage our limited resources, we encourage starting with contributions in the areas of documentation, issue triage, and testing (see below). You can also check the relevant repository labels for issues that are marked as `help-welcome`.
 - **Project Tooling** We use GitHub for development, but some of our team discussions happen in other tools, and not all of those are publicly available.
 - **Communications channels** [GitHub Discussions](https://github.com/mastodon/mastodon/discussions) are available for general discussion and questions. Announcements are made via our [blog](https://blog.joinmastodon.org/), and also via [@Mastodon](https://mastodon.social/@Mastodon) and [@MastodonEngineering](https://mastodon.social/@MastodonEngineering) on Mastodon.
 
@@ -49,7 +49,7 @@ Here are a number of things to understand about contributing to Mastodon.
 
 The core team discusses implementation choices, and maintains the final say on which changes make it into the platform (and our own apps). We aim to make decisions transparently, considering community feedback and the overall project needs. We are always open to considering future improvements to our workflow and decision-making process.
 
-Mastodon is an Open Source project, but it is not always possible to accept every contribution. We appreciate your understanding and patience if your contributions are not accepted.
+Mastodon is an Open Source project that welcomes contributions, but it is not always possible to accept every suggested change. We appreciate your understanding and patience if your contributions are not accepted.
 
 ## Contributing
 
@@ -61,9 +61,9 @@ Here are some other ideas:
 
 - **Documentation** Improve existing [documentation](https://github.com/mastodon/documentation), or help to identify areas that need improvement.
 - **Translations** Submit translations for the apps or main website [via CrowdIn](https://crowdin.com/projects?q=mastodon#advanced-search). We do not currently have plans for documentation translations, as they can be complicated to maintain, but let us know if you have ideas on how we could improve here.
-- **Issue Triage** Assist with categorizing new issues, reproduce reported bugs, test fixes, and find duplicates. A high-quality, validated issue list helps the core team stay on top of things.
+- **Issue Triage** Assist with categorising new issues, reproduce reported bugs, test fixes, and find duplicates. A high-quality, validated issue list helps the core team stay on top of things.
 - **Testing** Expand our test suite by writing new test cases and improving existing ones.
-- **Code** Fix bugs, implement new features (see the sections below), and improve code quality. Take a look at our [good first issues list](https://github.com/mastodon/mastodon/labels/help%20welcome) which contains items marked `help-welcome` in the issue tracker.
+- **Code** Fix bugs, implement new features (see the sections below), and improve code quality. Have a look at our [good first issues list](https://github.com/mastodon/mastodon/labels/help%20welcome) which contains items marked `help-welcome` in the issue tracker.
 - **Donate** Mastodon is a not-for-profit project, and we rely on donations to keep going. The best and easiest way to support us is to [donate](https://joinmastodon.org/sponsors#donate) - this helps us to hire developers to work full-time on new features, and support the existing codebase.
 
 ### Issues
@@ -105,7 +105,7 @@ While it may not always be possible to phrase every change in this manner, pleas
 
 ## License
 
-The core Mastodon server is licensed under the GNU Affero General Public License v3.0. Please see the [LICENSE](https://github.com/mastodon/mastodon/blob/main/LICENSE) file for more information. 
+The core Mastodon server is licensed under the GNU Affero General Public License v3.0. Please see the [LICENSE](https://github.com/mastodon/mastodon/blob/main/LICENSE) file for more information.
 
 Individual repositories outside of the server code may have different licenses.
 
