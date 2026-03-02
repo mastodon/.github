@@ -10,7 +10,7 @@
 - We empower communities to connect, while maintaining their autonomy.
 - Through decentralisation, we create pathways for diverse groups to interact on their own terms, fostering understanding across different perspectives and cultures.
 
-## 3. We believe in open dialogue about our decisions, processes, and challenges.
+## 3. We believe in open dialogue about our decisions, processes, and challenges
 
 - Our code is open source, our policies are public, and our decision-making welcomes community input.
 - When we make mistakes, we acknowledge them and make things right.
