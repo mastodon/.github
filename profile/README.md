@@ -21,9 +21,9 @@ Mastodon is where conversations happen - a free, open source social network, whe
 ## Recent news from the [project blog](https://blog.joinmastodon.org)
 
 <!-- BLOG-POST-LIST:START -->
+- :newspaper: [New t-shirts, pins and posters](https://blog.joinmastodon.org/2026/04/new-t-shirts-pins-and-posters/) - *2026-04-10*
 - :newspaper: [Trunk & Tidbits, March 2026](https://blog.joinmastodon.org/2026/04/trunk-tidbits-march-2026/) - *2026-04-10*
 - :newspaper: [Designing Collections](https://blog.joinmastodon.org/2026/04/designing-collections/) - *2026-04-09*
-- :newspaper: [A Redesign for Profiles](https://blog.joinmastodon.org/2026/03/a-redesign-for-profiles/) - *2026-03-26*
 <!-- BLOG-POST-LIST:END -->
 
 ## Contributing code (or reporting issues)
