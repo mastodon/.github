@@ -21,9 +21,9 @@ Mastodon is where conversations happen - a free, open source social network, whe
 ## Recent news from the [project blog](https://blog.joinmastodon.org)
 
 <!-- BLOG-POST-LIST:START -->
+- :newspaper: [Europe's New Tech Strategy Puts Open Source Front and Centre](https://blog.joinmastodon.org/2026/06/europes-new-tech-strategy-puts-open-source-front-and-centre/) - *2026-06-03*
 - :newspaper: [Trunk & Tidbits, April 2026](https://blog.joinmastodon.org/2026/05/trunk-tidbits-april-2026/) - *2026-05-19*
 - :newspaper: [Community Spotlight: Tzipporah and Yehuda of Turtle Island Social](https://blog.joinmastodon.org/2026/05/community-spotlight-tzipporah-and-yehuda-of-turtle-island-social/) - *2026-05-05*
-- :newspaper: [Sovereign Tech Agency funding](https://blog.joinmastodon.org/2026/04/sovereign-tech-agency-funding/) - *2026-04-14*
 <!-- BLOG-POST-LIST:END -->
 
 ## Contributing code (or reporting issues)
