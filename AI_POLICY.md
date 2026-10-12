@@ -4,7 +4,9 @@ Mastodon is a complex project, deployed at scale and across thousands of servers
 
 Today, AI-assisted tools are being deployed in many coding environments. Some of the "lower-end" features like keyword-driven code completion can be useful aids; other tools make it very easy to generate contributions without the submitter fully understanding how the code works, or the consequences of specific implementation choices. These latter forms of AI assistance cause major overhead for project maintainers. There are a small number of people on the Mastodon core team, and we seek to use our time and resources effectively.
 
-Our project is fundamentally about authentic human connection and communication. These values are reflected in our policy towards AI-generated contributions (below), just as much as they are embodied in how we work together, and how Mastodon enables anyone to connect on the social web. We generally *do not encourage* AI-assisted contributions; we have adopted this policy to reinforce the importance of genuine human interaction in everything we work on.
+Our project is fundamentally about authentic human connection and communication. These values are reflected in our policy towards AI-generated contributions (below), just as much as they are embodied in how we work together, and how Mastodon enables anyone to connect on the social web.
+
+**We generally _do not encourage_ AI-assisted contributions.** We have adopted this policy to reinforce the importance of genuine human interaction in everything we work on.
 
 ## 1. Accountability
 
@@ -23,9 +25,9 @@ Autonomous AI agents may not submit Pull Requests to Mastodon repositories. Huma
 
 ## 2. Disclosure
 
-If AI was used to generate a significant portion of your contribution (i.e. beyond simple autocomplete), we require you to **disclose it** in the Pull Request description. Note that you should not use AI to create the PR description itself (unless you’ve used it for translation) - as discussed above, we expect PRs to be submitted by humans.
+If AI was used to generate a significant portion of your contribution (i.e. beyond simple autocomplete), we require you to **clearly disclose it** in the Pull Request description. Note that you should not use AI to create the PR description itself (unless you’ve used it for translation) - as discussed above, we expect PRs to be submitted by humans.
 
-Transparency helps maintainers calibrate their review focus. Please add a trailer to your commit message in the following format:
+Transparency helps maintainers calibrate their review focus. In addition to the disclosure in the PR description, please add a trailer to your commit message in the following format:
 
 ```text
 Assisted-by: Name of AI
@@ -65,7 +67,7 @@ If you cannot guarantee the provenance and legal safety of the AI-generated code
 
 The following are strictly prohibited and will result in immediate closure of a Pull Request or Issue and potentially a block from the organisation:
 
-- **Automated PR Descriptions:** Using AI to write PR descriptions that are vague, overly flowery, or fail to accurately describe the technical changes. We want to hear from *you* - the developer - why this change matters (see points 1 & 2).
+- **Automated PR Descriptions:** Using AI to write PR descriptions that are vague, overly flowery, or fail to accurately describe the technical changes. We want to hear from _you_ - the developer - why this change matters (see points 1 & 2).
 - **Unvetted Boilerplate:** Submitting large blocks of AI-generated boilerplate that hasn't been trimmed to what's actually necessary. If you don't understand what the code does, don't submit the PR.
 - **Hallucinated Features:** Submitting PRs for features or bug fixes that don't exist, based on AI hallucinations about the project's capabilities.
 
