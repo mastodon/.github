@@ -19,7 +19,7 @@ If you submit a Pull Request that includes AI-generated code, documentation, or 
 
 "The AI generated it and it works for me" is never an acceptable answer to a reviewer's question. Copy-and-pasting to and from an AI chatbot during the process of code review is not acceptable (unless this is only for translation to and from English). If a maintainer suspects you do not understand your PR, it will be closed immediately.
 
-Autonomous AI agents may not submit Pull Requests to Mastodon repositories. Humans will take time to review the code, and we expect a human contributor to make the same commitment in handling the submission themselves. Do not post comments on issues or PRs that are AI-generated. Discussions on the Mastodon repositories are for humans only.
+Autonomous AI agents may not submit Pull Requests to Mastodon repositories. Humans will take time to review the code, and we expect a human contributor to make the same commitment in handling the submission themselves. Do not post AI-generated comments on issues or PRs. Discussions on the Mastodon repositories are for humans only.
 
 ## 2. Disclosure
 
